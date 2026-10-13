@@ -27,3 +27,7 @@ Includes subnetting, DHCP, DNS, Web, Email servers, NAT, OSPF, and BGP.
 1. Open the `.pkt` file in Cisco Packet Tracer.  
 2. Turn on all devices.  
 3. Test with `ping` and open `www.it.birzeit.edu`.
+
+## Team Members
+- Lara Abu Asfour
+- Tasneem Shelleh
